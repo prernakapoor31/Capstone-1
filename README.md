@@ -1,4 +1,4 @@
-# Data Science Project 
+# Violent Crime Rates in California
 
 Crime has been prevalent in our society for a very long time.
 It continues to be a threat to us and our society and demands serious consideration if we hope to reduce the onset of the repercussions caused by it. Hundreds of crimes are recorded daily by the data officers working alongside the law enforcement authorities throughout the United States.
